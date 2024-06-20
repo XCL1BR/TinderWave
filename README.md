@@ -26,5 +26,5 @@ This project is a dynamic web page featuring a Tinder-style effect, created usin
 ## Usage
 
 1. Open the `index.html` file in a web browser.
-2. 2. Click the button to switch between different tiles and observe the smooth transition effects.
+2.  Click the button to switch between different tiles and observe the smooth transition effects.
 
